@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<html>
+   <head>
+       <title>FRONTAND PROJECT</title>
+</head>
+    <body>
+      <h1 style="color:red"align="center">DR RVR NRI</h1>
+        <h2 style="color:yellow"align="left">IT</h2>
+       <h3 style="color:blue"align="left">DR DEEMEAD TO BE </h3>
+        <h4 style="color:red"align="left">DR RVR NRI</h4>
+        <h5 style="color:orange"align="left">DR RVR NRI</h5>
+         <h6 style="color:gold"align="left">DR RVR NRI</h6>
+  </body>
+</html>
